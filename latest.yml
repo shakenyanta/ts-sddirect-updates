@@ -1,8 +1,8 @@
-version: 0.1.1
+version: 0.1.2
 files:
   - url: ts-sddirect-setup.exe
-    sha512: yObpgcgZSZUZjzMZ+BeXh1MJaM/f++JZs/vIAqlmxjoJoMoZmg8qCSZQ8Wb7W3Co9KNUqiFh2p+LZrHNF+XPwg==
-    size: 96685908
+    sha512: CNrl3jfXBQ5rdHoMf+ezk/nrMa7UDazP29BxwBs4Z/z53mPJCURQmA9iG7/bZL1YNR5i5LeB9nk/VHt4wWVa7A==
+    size: 96687026
 path: ts-sddirect-setup.exe
-sha512: yObpgcgZSZUZjzMZ+BeXh1MJaM/f++JZs/vIAqlmxjoJoMoZmg8qCSZQ8Wb7W3Co9KNUqiFh2p+LZrHNF+XPwg==
-releaseDate: '2026-03-04T22:38:18.048Z'
+sha512: CNrl3jfXBQ5rdHoMf+ezk/nrMa7UDazP29BxwBs4Z/z53mPJCURQmA9iG7/bZL1YNR5i5LeB9nk/VHt4wWVa7A==
+releaseDate: '2026-03-05T04:41:25.797Z'
