@@ -1,19 +1,8 @@
-<<<<<<< HEAD
-version: 0.2.1
+version: 0.2.3
 files:
   - url: ts-sddirect-setup.exe
-    sha512: pNpw3TD82Dc6nx3g2olSPdKGzUyBumKRBCLvke55L5fvodNp4NsLX1eOFKfMbYEOq4g4fuBD/dbQZAXvWW9EeQ==
-    size: 100214376
+    sha512: 1xVGP2dJBsn8TN+KOo85WfTcHe8v11AjbZnkyiM6YSAMZjBA5/QlxMZ4c8G9n5dHNjHqP5mp8DTIuN637N4DEA==
+    size: 100112146
 path: ts-sddirect-setup.exe
-sha512: pNpw3TD82Dc6nx3g2olSPdKGzUyBumKRBCLvke55L5fvodNp4NsLX1eOFKfMbYEOq4g4fuBD/dbQZAXvWW9EeQ==
-releaseDate: '2026-03-23T13:48:14.308Z'
-=======
-version: 0.2.2
-files:
-  - url: ts-sddirect-setup.exe
-    sha512: l37ealAWIys+brhyf8sZCH5U8yQX1nSkbsNRf/fZmQxDvqB/BCsBCLI1Ifr6NtkF7uCYCAQCiXiczk69EbmPHg==
-    size: 100142521
-path: ts-sddirect-setup.exe
-sha512: l37ealAWIys+brhyf8sZCH5U8yQX1nSkbsNRf/fZmQxDvqB/BCsBCLI1Ifr6NtkF7uCYCAQCiXiczk69EbmPHg==
-releaseDate: '2026-03-24T08:30:12.056Z'
->>>>>>> 12a29a011788d74cad6974fe90295740204c821d
+sha512: 1xVGP2dJBsn8TN+KOo85WfTcHe8v11AjbZnkyiM6YSAMZjBA5/QlxMZ4c8G9n5dHNjHqP5mp8DTIuN637N4DEA==
+releaseDate: '2026-03-25T02:54:58.667Z'
